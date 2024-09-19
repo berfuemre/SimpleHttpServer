@@ -1,4 +1,4 @@
-# Simple HTTP Server
+# HTTP Server
 
 A simple HTTP server implemented in C++ that handles GET requests and serves static HTML files.
 
