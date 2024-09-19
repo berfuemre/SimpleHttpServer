@@ -16,7 +16,7 @@ A simple HTTP server implemented in C++ that handles GET requests and serves sta
 ### Building the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/SimpleHttpServer.git
+   git clone https://github.com/berfuemre/SimpleHttpServer.git
    cd SimpleHttpServer
 
 2. Create a build directory:
