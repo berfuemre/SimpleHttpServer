@@ -28,3 +28,8 @@ A simple HTTP server implemented in C++ that handles GET requests and serves sta
 
 4. Build project
    make
+
+5. Run the server
+   ./http_server
+
+6. Open your web browser and navigate to http://localhost:8080 to see the index page
